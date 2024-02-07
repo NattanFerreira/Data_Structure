@@ -18,6 +18,5 @@ int main(){
     {
         matriz[j][i] = 
     }
-    
-    
+    return 0;
 }
